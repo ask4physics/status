@@ -1,0 +1,19 @@
+owner: MDIS Website
+repo: status
+sites:
+  - name: MDIS Website
+    url: https://www.mdis.edu.sg
+assignees:
+  - ask4physics
+notifications:
+  - type: slack
+    channel: C01XQ3U9M9P
+status-website:
+  baseUrl: /status
+  logoUrl: 
+  name: 
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
